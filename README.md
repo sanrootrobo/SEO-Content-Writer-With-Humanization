@@ -236,6 +236,4 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 - [ ] Content refresh recommendations
 - [ ] SERP feature optimization
 
----
 
-Made with ❤️ for content creators and SEO professionals
