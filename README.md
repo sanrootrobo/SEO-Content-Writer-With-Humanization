@@ -218,12 +218,6 @@ The script includes robust error handling for:
 - Invalid configurations
 - Missing API keys
 - Failed competitor analysis
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is designed to assist in content creation, not replace human oversight. Always review and edit generated content before publication to ensure accuracy, brand alignment, and quality.
