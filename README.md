@@ -63,7 +63,7 @@ Create three text files in the project directory:
 2. Run the script:
 
 ```bash
-python seo_blog_writer.py -c blog_config.json
+python SeoWriter6_google_Nlp_Client_1.py -c blog_config.json
 ```
 
 3. Find your generated blog post as a markdown file: `the_ultimate_guide_to_cloud_migration_in_2025.md`
@@ -72,12 +72,12 @@ python seo_blog_writer.py -c blog_config.json
 
 ### Basic Usage
 ```bash
-python seo_blog_writer.py -c blog_config.json
+python SeoWriter6_google_Nlp_Client_1.py -c blog_config.json
 ```
 
 ### With Client Website Context (for brand-aligned content)
 ```bash
-python seo_blog_writer.py -c blog_config.json --client client_website_dump.txt
+python SeoWriter6_google_Nlp_Client_1.py -c blog_config.json --client client_website_dump.txt
 ```
 
 ### Custom Word Count Range
