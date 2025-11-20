@@ -26,7 +26,7 @@ An intelligent, AI-powered SEO blog content generator that analyzes competitor c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/seo-blog-writer.git
+git clone https://github.com/sanrootrobo/SEO-Content-Writer-With-Humanization.git
 cd seo-blog-writer
 ```
 
